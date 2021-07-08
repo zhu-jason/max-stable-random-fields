@@ -2,7 +2,7 @@
 Author: Jason Zhu <br />
 Contact: zhujason [at] stanford [dot] edu <br />
 Institution: Stanford University <br />
-Department: Department of Mathematics and ICME (Institute of Computational and Mathematical Engineering)
+Department: B.S. Candidate in Department of Mathematics and M.S candidate in ICME (Institute of Computational and Mathematical Engineering)
 
 This repository contains my implementation of the algorithms from "Malliavin-based Multilevel Monte Carlo Estimators for Densities of Max-stable Processes" by Zhipeng Liu and Jose Blanchet. Namely, I've implemented the algorithms necessary to simulate sample paths of a max-stable random field as well as the algorithms to estimate the multivariate density of the random field. 
 
