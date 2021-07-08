@@ -1,6 +1,6 @@
 # Simulation and Estimation of Max Stable Random Fields
 Author: Jason Zhu <br />
-Contact: zhujason@stanford.edu <br />
+Contact: zhujason [at] stanford [dot] edu <br />
 Institution: Stanford University <br />
 Department: Mathematics and ICME (Institute of Computational and Mathematical Engineering)
 
